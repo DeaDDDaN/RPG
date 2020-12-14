@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/resource">
+        <file>Images/background.png</file>
+        <file>Images/goblin.png</file>
+        <file>Images/orc.png</file>
+        <file>Images/skeleton.png</file>
+        <file>Images/witch.png</file>
+        <file>Images/axe.png</file>
+        <file>Images/bow.png</file>
+        <file>Images/club.png</file>
+        <file>Images/crossbow.png</file>
+        <file>Images/goodstaff.png</file>
+        <file>Images/greatsword.png</file>
+        <file>Images/knife.png</file>
+        <file>Images/morgenstern.png</file>
+        <file>Images/staff.png</file>
+        <file>Images/sword.png</file>
+        <file>Images/Archer.png</file>
+        <file>Images/book.png</file>
+        <file>Images/buttonLong_blue.png</file>
+        <file>Images/Mag.png</file>
+        <file>Images/MagOrig.png</file>
+        <file>Images/Priest.png</file>
+        <file>Images/PriestOrig.png</file>
+        <file>Images/Warrior.png</file>
+        <file>Images/WarriorOrig.png</file>
+        <file>Images/Панель.png</file>
+        <file>Images/ArcherOrig.png</file>
+        <file>Images/imgonline-com-ua-Resize-qp0XG2ixTiqwKr.png</file>
+        <file>Images/FireBall.png</file>
+        <file>Images/IceBlast.png</file>
+        <file>Images/MeteorRain.png</file>
+        <file>Images/TimeLeap.png</file>
+        <file>Images/Frame.png</file>
+    </qresource>
+</RCC>
